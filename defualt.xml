@@ -9,8 +9,8 @@
 
   <project path="manifest" name="LRTeam-CCC/LRUI_manifest" />
   <project path="plugins" name="LRTeam-CCC/LRUI_plugins" />
-  <project path="build" name="FlymeOS/build" />
-  <project path="tools" name="FlymeOS/tools" />
+  <project path="build" name="LRTeam-CCC/LRUI_build" />
+  <project path="tools" name="LRTeam-CCC/LRUI_tools" />
   <project path="flyme/release" name="LRTeam-CCC/LRUI_release"/>
   <project path="flyme/overlay" name="LRTeam-CCC/LRUI_overlay" />
   <project path="devices/base" name="LRTeam-CCC/LRUI_base" />
