@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin"
+          fetch=".." />
+
+  <default revision="refs/heads/LP-5.1"
+           remote="origin"
+           sync-j="4" />
+
+  <project path="manifest" name="LRTeam-CCC/LRUI_manifest" />
+  <project path="plugins" name="LRTeam-CCC/LRUI_plugins" />
+  <project path="build" name="FlymeOS/build" />
+  <project path="tools" name="FlymeOS/tools" />
+  <project path="flyme/release" name="LRTeam-CCC/LRUI_release"/>
+  <project path="flyme/overlay" name="LRTeam-CCC/LRUI_overlay" />
+  <project path="devices/base" name="LRTeam-CCC/LRUI_base" />
+  <project path="devices/base_cm" name="LRTeam-CCC/LRUI_base_cm" />
+</manifest>
